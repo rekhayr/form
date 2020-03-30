@@ -1,0 +1,68 @@
+form {
+  padding: 0 40px;
+}
+
+.inputDescription {
+  display: block;
+  width: 100%;
+  font-size: 20px;
+  padding: 5px 10px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+form button {
+  display: block;
+  width: 100%;
+  appearance: none;
+  border-radius: 5px;
+  background-color: #84c00c;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+form button:hover {
+  background-color: #669509;
+}
+
+form button:disabled {
+  background-color: #dbf99f;
+  color: #333;
+}
+
+form button.small {
+  display: inline-block;
+  width: auto;
+  padding: 0 30px;
+  background-color: #777;
+  font-size: 14px;
+}
+
+form button.small:hover {
+  background-color: #999;
+}
+.textCss {
+  margin-top: 5px;
+  width: 58%;
+}
+.marginTop {
+  margin-top: 50px;
+}
+.paddingleft {
+  padding-left: 10%;
+}
+.tableCss {
+  border: 1px solid black;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+.marginLeft {
+  margin-left: 2%;
+}
